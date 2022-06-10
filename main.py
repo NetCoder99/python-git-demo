@@ -1,5 +1,13 @@
 import gitFunctions
 
+## ----------------------------------------------------------------------
+# git remote add origin https://github.com/NetCoder99/python-git-demo.git
+# git push -u origin master
+# git branch develop
+# git checkout develop
+## ----------------------------------------------------------------------
+
+
 # if not gitFunctions.isGitDirectory():
 #   print("Need to init Git Directory")
 #   gitFunctions.initGitDirectory()
